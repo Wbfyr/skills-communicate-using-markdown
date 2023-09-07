@@ -15,3 +15,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] turn on the page
+- [x] grow to 180cm
+- [x] learn English
+- [ ] find a girlfriend
